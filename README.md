@@ -149,6 +149,13 @@ Example Response:
 * Improve UI/UX
 * Experiment with XGBoost and Random Forest models
 * Add authentication and user management
+## Live Demo
+
+Frontend:
+https://fraud-detection-xjub.onrender.com/ui
+
+API Documentation:
+https://fraud-detection-xjub.onrender.com/docs
 
 ## Author
 
